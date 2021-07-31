@@ -1,5 +1,14 @@
 # sound-player-in-c
 sound visualizer in c depecting the use of fast fourier transformation  in Digital Audio
+
+
+
+
+
+https://user-images.githubusercontent.com/87204501/127741204-e22785a2-3644-45db-b5fd-c141f7fee5ee.mp4
+
+
+
 -------------------ABOUT PROJECT----------------------
 
 the project is visualizing the music or digital audio using the fast fourier transformation,for this the code is using an awesome library 
