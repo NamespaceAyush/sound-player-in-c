@@ -36,4 +36,4 @@ just run make command
 
 ------------RUNNING AND USAGE-------------
 
-./player FILENAME.wav
+./player FILENAME.wav. 
