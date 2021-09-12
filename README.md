@@ -2,10 +2,9 @@
 sound visualizer in c depecting the use of fast fourier transformation  in Digital Audio
 
 
+https://user-images.githubusercontent.com/87204501/132989940-f05c6645-3bc7-4be4-b878-31fb588a732f.mp4
 
 
-
-https://user-images.githubusercontent.com/87204501/127741204-e22785a2-3644-45db-b5fd-c141f7fee5ee.mp4
 
 
 
