@@ -5,9 +5,7 @@ sound visualizer in c depecting the use of fast fourier transformation  in Digit
 https://user-images.githubusercontent.com/87204501/132989940-f05c6645-3bc7-4be4-b878-31fb588a732f.mp4
 
 
-
-
-https://user-images.githubusercontent.com/87204501/132990040-e5149079-9cf4-484b-856e-3548d673e424.mp4
+![spf](https://user-images.githubusercontent.com/87204501/132990357-6eb616f1-6aac-4fc4-8dc1-d3ea64ef8586.png)
 
 
 
